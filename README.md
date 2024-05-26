@@ -1,5 +1,4 @@
-# Digispark3Mex
-By: HellPineapple
+# Digispark3Mex By: HellPineapple
 
 #include "DigiKeyboard.h"
 
