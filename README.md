@@ -1,3 +1,6 @@
+Renuncia
+Se proporcionan ejemplos de código con fines educativos. Las defensas adecuadas solo se pueden construir investigando las técnicas de ataque disponibles para los actores maliciosos. El uso de este código contra los sistemas de destino sin permiso previo es ilegal en la mayoría de las jurisdicciones. Los autores no son responsables de ningún daño derivado del mal uso de esta información o código.
+
 # Digispark3Mex By: HellPineapple
 
 #include "DigiKeyboard.h"
